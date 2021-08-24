@@ -1,0 +1,41 @@
+.loginModal *{
+    color: black;
+    list-style: none;
+    text-decoration: none;
+}
+
+.modal-wrapper,
+ion-modal div.modal-wrapper{
+    position: fixed;
+    bottom: 0;
+    --height: 90%;
+    --border-radius: 22px 22px 0px 0px;
+}
+
+.loginButton{
+    display: flex;
+    margin-left: 35px;
+    margin-right: 35px;
+    color: black;
+    border: 1px solid #B9B9B9;
+    border-radius: 22px;
+    height: 52px;
+    max-height: 15ch;
+    margin-bottom: 15px;
+}
+
+.loginBottom{
+    text-align: center;
+    background-color: #F5F7F8;
+    border-radius: 22px 22px 0px 0px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 76px;
+}
+
+.loginBottom a{
+    color: #FE7259;
+    font-size: 18px;
+    line-height: 177.19%;
+}

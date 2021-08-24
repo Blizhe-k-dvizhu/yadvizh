@@ -1,0 +1,7 @@
+{
+    "name": "Я.Движ",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "react"
+}

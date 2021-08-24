@@ -1,0 +1,8 @@
+<svg width="127.83mm" height="127.83mm" version="1.1" viewBox="0 0 127.83 127.83" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-18.119 -4.4917)">
+  <g transform="matrix(9.3821 0 0 9.3821 2.2866 -11.341)" fill="none" stroke="#000" stroke-width=".875">
+   <path d="m8.5 2.125c-3.5195 0-6.375 2.8555-6.375 6.375 0 3.5195 2.8555 6.375 6.375 6.375 3.5195 0 6.375-2.8555 6.375-6.375 0-3.5195-2.8555-6.375-6.375-6.375z" stroke-miterlimit="10"/>
+   <path d="m8.5 4.25v4.7812h3.1875" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,25 @@
+.filter-body {
+    position: fixed;
+    top: 2ch;
+    left: 1ch;
+    display: flex;
+}
+
+.filter-body ion-button {
+    color: black;
+    background-color: #FFFFFF;
+    padding: 1ch 1ch 1ch 1ch;
+    margin-left: 1ch;
+    background: #FFFFFF;
+    border: 1px solid #B4B4B4;
+    box-sizing: border-box;
+    border-radius: 17px;
+}
+
+.filter-body ion-datetime {
+    display: none;
+}
+
+.filter-body ion-label {
+    padding-right: 1ch;
+}

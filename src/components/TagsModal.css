@@ -1,0 +1,9 @@
+.tagsModal-body {
+    background: var(--ion-color-primary-contrast);
+    display: flex;
+}
+
+.tagsModal-body ion-button {
+    color: white;
+    padding: 1ch 1ch 1ch 1ch;
+}

@@ -1,0 +1,25 @@
+.mapButtons{
+    position: fixed;
+    bottom: 4ch;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+
+
+.mapButtons ion-button{
+    padding-left: 15px;
+    padding-right: 15px;
+    box-shadow: 0px 4px 7px rgba(0, 0, 0, 0.25);
+    border-radius: 6px;
+    background: #FFFFFF;
+    color: black;
+}
+
+.mapButtons>:nth-child(2){
+    background: #FFDE59;
+    color: black;
+}

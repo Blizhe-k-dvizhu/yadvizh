@@ -1,0 +1,6 @@
+{
+    "appId": "ru.blizhekdvizhu.yadvizh",
+    "appName": "Yandex_dvish",
+    "webDir": "build",
+    "bundledWebRuntime": false
+}
